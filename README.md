@@ -10,7 +10,7 @@
             src="https://github.com/RafaBrito7/RafaBrito7/blob/master/assets/img/redes%20sociais/linkedin.png"
             alt="linkedin logo"
             width="60px"
-            style="margin-right: 5px;"
+            style="margin-right: 15px;"
           />
         </a>
         <a
@@ -21,7 +21,7 @@
             src="https://github.com/RafaBrito7/RafaBrito7/blob/master/assets/img/redes%20sociais/wpp.png"
             alt="Whatsapp Logo"
             width="60px"
-            style="margin-right: 5px;"
+            style="margin-right: 15px;"
           />
         </a>
         <a href="https://www.instagram.com/rafabrito_7/" target="_blank">
@@ -29,7 +29,7 @@
             src="https://github.com/RafaBrito7/RafaBrito7/blob/master/assets/img/redes%20sociais/insta.png"
             alt="Instagram Logo"
             width="60px"
-            style="margin-right: 5px;"
+            style="margin-right: 15px;"
           />
         </a>
         <a
@@ -40,7 +40,7 @@
             src="https://github.com/RafaBrito7/RafaBrito7/blob/master/assets/img/redes%20sociais/youtube.png"
             alt="YouTube Logo"
             width="60px"
-            style="margin-right: 5px;"
+            style="margin-right: 15px;"
           />
         </a>
         <a href="https://github.com/RafaBrito7" target="_blank">
@@ -48,7 +48,7 @@
             src="https://github.com/RafaBrito7/RafaBrito7/blob/master/assets/img/redes%20sociais/git.png"
             alt="GitHub Logo"
             width="60px"
-            style="margin-right: 5px;"
+            style="margin-right: 15px;"
           />
         </a>
         <a href="https://www.behance.net/rafabritoo7ab6" target="_blank">
@@ -56,7 +56,7 @@
             src="https://github.com/RafaBrito7/RafaBrito7/blob/master/assets/img/redes%20sociais/behance.png"
             alt="Behance Logo"
             width="60px"
-            style="margin-right: 5px;"
+            style="margin-right: 15px;"
           />
         </a>
       </p>   

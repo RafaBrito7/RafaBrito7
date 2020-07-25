@@ -4,8 +4,7 @@
         alt="Cabeçalho"
         width="800px"
       />
-      <br>
-      <div  style="margin-bottom: 25px;" align="center">
+      <br style="margin-bottom: 25px;" align="center">
         <a href="https://www.linkedin.com/in/rafabrito7/" target="_blank">
           <img
             src="https://github.com/RafaBrito7/RafaBrito7/blob/master/assets/img/redes%20sociais/linkedin.png"
@@ -60,9 +59,7 @@
             style="margin-right: 5px;"
           />
         </a>
-      </p>
-      </div>
-      
+      </p>   
     <p>
       <a href="" target="_blank">
         <img

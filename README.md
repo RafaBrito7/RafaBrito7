@@ -83,3 +83,27 @@
         />
       </a>
     </p>
+    <br />
+    <p align="center">
+      <img
+        src="./assets/img/Juntos.png"
+        alt="Mascote Saudando"
+        width="500px"
+        style="margin-top: 20px;"
+      />
+    </p>
+    <h3 align="center">Me chamo Rafael Brito 👋</h3>
+    <p>
+      <ul>
+        <li>💻 JavaWeb | SpringBoot | JPA - Hibernate | MySQL | HTML | CSS
+          | JavaScript | Git/GitHub | Photoshop | CorelDrawn</li>
+          <li>📌 Moro em <b>Recife</b>, <b>Pernambuco</b>, <b>Brazil</b></li>
+          <li>💼 Estudante de Análise e Desenvolvimento de Sistemas</li>
+          <li>🔎 Procurando Oportunidade de <b>Estágio ou Júnior</b> de Desenvolvimento em  <b>Java</b> ou como <b>DBA</b></li>
+      </ul>
+      
+    </p>
+    <p align="center">
+      
+      <br />
+    </p>

@@ -8,7 +8,7 @@
       <div  style="margin-bottom: 25px;" align="center">
         <a href="https://www.linkedin.com/in/rafabrito7/" target="_blank">
           <img
-            src="./assets/img/redes sociais/linkedin.png"
+            src="https://github.com/RafaBrito7/RafaBrito7/blob/master/assets/img/redes%20sociais/linkedin.png"
             alt="linkedin logo"
             width="60px"
             style="margin-right: 5px;"
@@ -19,7 +19,7 @@
           target="_blank"
         >
           <img
-            src="./assets/img/redes sociais/wpp.png"
+            src="https://github.com/RafaBrito7/RafaBrito7/blob/master/assets/img/redes%20sociais/wpp.png"
             alt="Whatsapp Logo"
             width="60px"
             style="margin-right: 5px;"
@@ -27,7 +27,7 @@
         </a>
         <a href="https://www.instagram.com/rafabrito_7/" target="_blank">
           <img
-            src="./assets/img/redes sociais/insta.png"
+            src="https://github.com/RafaBrito7/RafaBrito7/blob/master/assets/img/redes%20sociais/insta.png"
             alt="Instagram Logo"
             width="60px"
             style="margin-right: 5px;"
@@ -38,7 +38,7 @@
           target="_blank"
         >
           <img
-            src="./assets/img/redes sociais/youtube.png"
+            src="https://github.com/RafaBrito7/RafaBrito7/blob/master/assets/img/redes%20sociais/youtube.png"
             alt="YouTube Logo"
             width="60px"
             style="margin-right: 5px;"
@@ -46,7 +46,7 @@
         </a>
         <a href="https://github.com/RafaBrito7" target="_blank">
           <img
-            src="./assets/img/redes sociais/git.png"
+            src="https://github.com/RafaBrito7/RafaBrito7/blob/master/assets/img/redes%20sociais/git.png"
             alt="GitHub Logo"
             width="60px"
             style="margin-right: 5px;"
@@ -54,7 +54,7 @@
         </a>
         <a href="https://www.behance.net/rafabritoo7ab6" target="_blank">
           <img
-            src="./assets/img/redes sociais/behance.png"
+            src="https://github.com/RafaBrito7/RafaBrito7/blob/master/assets/img/redes%20sociais/behance.png"
             alt="Behance Logo"
             width="60px"
             style="margin-right: 5px;"
@@ -66,7 +66,7 @@
     <p>
       <a href="" target="_blank">
         <img
-          src="./assets/img/sobre.png"
+          src="https://github.com/RafaBrito7/RafaBrito7/blob/master/assets/img/sobre.png"
           alt="Sobre"
           width="125px"
           align="left"
@@ -78,7 +78,7 @@
         target="_blank"
       >
         <img
-          src="./assets/img/cv.png"
+          src="https://github.com/RafaBrito7/RafaBrito7/blob/master/assets/img/cv.png"
           alt="cv logo"
           width="125px"
           align="right"

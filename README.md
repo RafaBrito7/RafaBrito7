@@ -96,15 +96,14 @@
     <p></p>
     <ul>
       <li>
-        💻 JavaWeb | SpringBoot | JPA - Hibernate | MySQL | HTML | CSS |
+        💻 Java | Spring | MySQL | HTML | CSS |
         JavaScript | Git/GitHub | Photoshop | CorelDrawn
       </li>
       <li>📌 Moro em <b>Recife</b>, <b>Pernambuco</b>, <b>Brazil</b></li>
-      <li>💼 Estudante de Análise e Desenvolvimento de Sistemas</li>
-      <li>
-        🔎 Procurando Oportunidade de <b>Estágio ou Júnior</b> de
-        Desenvolvimento em <b>Java</b> ou como <b>DBA</b>
-      </li>
+      <li>💼 Desenvolvedor Full-Stack Pleno - Ustore</li>
+      <li>💼 Professor Java/Spring/SQL - SENAI</li>
+      <li>💼 Tecnólogo em Análise e Desenvolvimento de Sistemas - UNIAESO</li>
+      <li>💼 Cursando Especialização em Arquitetura de Software Distribuído - PUC MINAS</li>
     </ul>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RafaBrito7)](https://github.com/anuraghazra/github-readme-stats)
